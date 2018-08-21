@@ -1,0 +1,5 @@
+{
+  "name": "fela-plugin-fallback-value",
+  "description": "mirror of fela-plugin-fallback-value for bower, bundled and exposed as ES module",
+  "author": "Mikhail Bashkirov <bashmish@gmail.com>"
+}
